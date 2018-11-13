@@ -3,4 +3,5 @@
 *   [#1428](https://github.com/pmd/pmd/pull/1428): \[core] Upgrading JCommander from 1.48 to 1.72 - [Thunderforge](https://github.com/Thunderforge)
 *   [#1430](https://github.com/pmd/pmd/pull/1430): \[doc] Who really knows regex? - [Dem Pilafian](https://github.com/dpilafian)
  {% endtocmaker %}
- See it.
+ 
+ https://github.com/Ranjanas25/pmd/tree/master/pmd-dist
